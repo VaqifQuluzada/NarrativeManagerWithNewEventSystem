@@ -1,12 +1,5 @@
 {
   "dependencies": {
-    "com.biernat-krzysztof.gt-variable": {
-      "version": "https://github.com/mechaniqe/GTScriptableVariable.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "4f2f7a338d378a1559a82eea5903f5c66a74c5c9"
-    },
     "com.unity.collab-proxy": {
       "version": "2.3.1",
       "depth": 0,
